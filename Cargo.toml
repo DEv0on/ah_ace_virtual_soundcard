@@ -1,0 +1,11 @@
+[package]
+name = "ah_ace_virtual_soundcard"
+version = "1.0.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+pcap = "1.2.0"
+text_io = "0.1.12"
+wasapi = "0.14.0"
